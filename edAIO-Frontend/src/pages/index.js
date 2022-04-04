@@ -1,0 +1,17 @@
+export { default as ProfilPage} from "./ProfilePage";
+export { default as LoadingPage} from "./LoadingPage";
+export { default as HomePage} from "./HomePage";
+export { default as LectureSchedule} from "./LectureSchedule";
+export { default as Derslerim} from "./Derslerim";
+export { default as DonemSonuSinavi} from "./DonemSonuSinavi";
+export { default as IkinciYabanciDilBilgileri} from "./IkinciYabanciDilBilgileri";
+export { default as AddressPage} from "./AddressPage";
+export { default as MidtermsPage} from "./MidtermsPage";
+export { default as BlogPage} from "./BlogPage";
+export { default as InfoPage} from "./InfoPage";
+export { default as MakeUpsPage} from "./MakeUpsPage";
+export { default as Appointment } from "./Appointment";
+export { default as PaymentInfo } from "./PaymentInfo";
+export { default as InternshipInfo } from "./InternshipInfo";
+export { default as Grades } from "./Grades";
+export { default as GirisCikisSayfasi } from "./GirisCikisSayfasi";

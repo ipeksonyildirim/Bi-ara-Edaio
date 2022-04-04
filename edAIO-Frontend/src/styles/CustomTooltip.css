@@ -1,0 +1,17 @@
+ .custom-tooltip{
+    width: 180px;
+    border: 1px solid rgb(223, 15, 15);
+    overflow: hidden;
+    text-align: center;
+  }
+.header-tooltip{
+    font-weight: bold;
+}
+
+.element-tooltip{
+    width: 174px;
+    height: 75px;
+    border: 1px solid darkblue;
+    padding-top: 5px;
+    margin: 2px;
+}
